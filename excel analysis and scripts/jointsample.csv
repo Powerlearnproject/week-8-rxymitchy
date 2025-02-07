@@ -1,0 +1,17 @@
+applicant_id,ApplicantName,gender,job_id,JobTitle,required_experience_years,offered_salary,ApplicationStatus,application_date
+201,"Alice Johnson",Female,101,"Junior Software Developer",2,50000.00,Pending,2024-02-15
+202,"Bob Smith",Male,102,"Software Developer",3,60000.00,Rejected,2024-02-16
+203,"Carla Reyes",Female,105,"Entry Level Analyst",0,40000.00,Accepted,2024-02-17
+204,"David Lee",Male,104,"Financial Analyst",3,45000.00,Pending,2024-02-18
+205,"Ethan Brown",Male,107,"Intern Developer",0,30000.00,Pending,2024-02-21
+205,"Ethan Brown",Male,108,"Full Stack Developer",4,70000.00,Pending,2024-03-04
+206,"Fiona Green",Female,103,"Healthcare Assistant",1,35000.00,Accepted,2024-02-22
+207,"George King",Male,112,"Entry-Level Financial Consultant",0,38000.00,Pending,2024-03-02
+207,"George King",Male,102,"Software Developer",3,60000.00,Rejected,2024-03-05
+208,"Hannah Scott",Female,114,"Wind Turbine Assistant",0,40000.00,Accepted,2024-02-23
+209,"Ian Moore",Male,111,"Junior Accountant",1,42000.00,Rejected,2024-03-03
+210,"Julia Taylor",Female,115,"Content Developer",1,38000.00,Pending,2024-02-25
+210,"Julia Taylor",Female,110,"Lab Technician",2,40000.00,Pending,2024-03-06
+211,"Kevin White",Male,117,"Marketing Coordinator",1,42000.00,Accepted,2024-02-27
+212,"Laura Black",Female,116,"Instructional Designer",2,50000.00,Pending,2024-02-28
+212,"Laura Black",Female,118,"Social Media Manager",3,46000.00,Accepted,2024-03-07

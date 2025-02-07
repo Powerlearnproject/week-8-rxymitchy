@@ -1,0 +1,17 @@
+applicant_id,name,age,title,offered_salary,required_experience_years
+201,"Alice Johnson",23,"Junior Software Developer",50000.00,2
+202,"Bob Smith",25,"Software Developer",60000.00,3
+203,"Carla Reyes",22,"Entry Level Analyst",40000.00,0
+204,"David Lee",27,"Financial Analyst",45000.00,3
+205,"Ethan Brown",21,"Intern Developer",30000.00,0
+205,"Ethan Brown",21,"Full Stack Developer",70000.00,4
+206,"Fiona Green",24,"Healthcare Assistant",35000.00,1
+207,"George King",28,"Entry-Level Financial Consultant",38000.00,0
+207,"George King",28,"Software Developer",60000.00,3
+208,"Hannah Scott",22,"Wind Turbine Assistant",40000.00,0
+209,"Ian Moore",26,"Junior Accountant",42000.00,1
+210,"Julia Taylor",23,"Content Developer",38000.00,1
+210,"Julia Taylor",23,"Lab Technician",40000.00,2
+211,"Kevin White",29,"Marketing Coordinator",42000.00,1
+212,"Laura Black",21,"Instructional Designer",50000.00,2
+212,"Laura Black",21,"Social Media Manager",46000.00,3

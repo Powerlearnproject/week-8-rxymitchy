@@ -1,0 +1,13 @@
+applicant_id,name,age,gender,education_level,total_experience_years
+201,"Alice Johnson",23,Female,Bachelor,0
+202,"Bob Smith",25,Male,Bachelor,1
+203,"Carla Reyes",22,Female,Bachelor,0
+204,"David Lee",27,Male,Master,2
+205,"Ethan Brown",21,Male,Bachelor,0
+206,"Fiona Green",24,Female,Bachelor,1
+207,"George King",28,Male,Bachelor,2
+208,"Hannah Scott",22,Female,Diploma,0
+209,"Ian Moore",26,Male,Master,3
+210,"Julia Taylor",23,Female,Bachelor,0
+211,"Kevin White",29,Male,Bachelor,1
+212,"Laura Black",21,Female,Bachelor,0
