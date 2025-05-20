@@ -1,52 +1,96 @@
-# Solving an SDG Problem with Data (Choose Your SDG)
+# Breaking Barriers: Youth Employment & Fair Wages - PLP DB Project  
 
-## Overview
-Select a Sustainable Development Goal (SDG) that resonates with you and develop a data-driven solution to address a specific problem within that SDG. Design a database, perform data analysis, and use Microsoft Excel as the user interface.
+Presentation: https://www.canva.com/design/DAGeEzBOokA/s1mdVPLGleXGOxtfOCEKXA/edit?utm_content=DAGeEzBOokA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Objectives
-- Choose an SDG and identify a specific problem to address.
-- Design and implement a relational database relevant to your chosen problem.
-- Write SQL queries to retrieve and analyze data.
-- Use Microsoft Excel for data visualization and analysis.
+## 📌 Project Overview  
+This project focuses on **SDG 8: Decent Work and Economic Growth**, addressing the challenges young job seekers face in securing fair employment opportunities. Many entry-level jobs demand excessive experience, offer low wages, and exhibit gender biases, creating barriers for youth—especially young women—in the job market.  
 
-## Requirements
+Using **database design, SQL queries, and Excel analysis**, this project identifies trends, disparities, and provides data-driven recommendations to improve youth employment conditions, with a focus on Kenyan cities (Nairobi, Mombasa, Kisumu).  
 
-### Part 1: SDG Selection and Problem Definition
-- **SDG Selection:** Choose an SDG (e.g., SDG 3: Good Health, SDG 7: Affordable and Clean Energy).
-- **Problem Definition:** Define a specific problem within your chosen SDG that can be addressed using data.
+---
 
-### Part 2: Database Design
-- **ERD:** Design an ERD for your project, including entities relevant to your SDG problem.
-- **Schema:** Write SQL statements to create the database schema based on your ERD.
-- **Sample Data:** Populate the database with relevant sample data.
+## 🎯 Objectives  
+✔ **Identify trends & disparities** in youth employment and wages.  
+✔ **Analyze job requirements vs. reality** (e.g., "entry-level" roles demanding 3+ years of experience).  
+✔ **Evaluate salary fairness** across genders and locations.  
+✔ **Provide policy & hiring recommendations** based on data insights.  
 
-### Part 3: SQL Programming
-- **Data Retrieval:** Write SQL queries to retrieve relevant data based on your problem definition.
-- **Data Analysis:** Write SQL queries to analyze data and generate insights related to your SDG problem.
+---
 
-### Part 4: Data Analysis Using Excel
-- **Import Data:** Import data from your database into Excel.
-- **Analysis:** Analyze the data using pivot tables, charts, and other Excel tools.
-- **Dashboard:** Create an interactive Excel dashboard to visualize key insights.
+## 🔍 Key Questions Explored  
+- How many "entry-level" jobs require unrealistic experience?  
+- What is the average salary offered to young applicants?  
+- Are there gender disparities in hiring outcomes?  
+- How do wages compare across different Kenyan cities?  
 
-### Part 5: Integration and Testing
-- **Integration:** Document the process of importing data into Excel and ensuring consistency.
-- **Testing:** Test the integration and functionality of your Excel dashboard.
+---
 
-### Part 6: Presentation
-- **Pitch Deck:** Develop a 10-slide PowerPoint presentation as taught in the entrepreneurship module covering:
-  - Project overview and SDG alignment.
-  - Problem definition and significance.
-  - Database design and schema.
-  - Data analysis insights.
-  - Excel dashboard demonstration.
-- **Delivery:** Present your pitch deck, demonstrating how your project addresses the SDG problem.
+## 🛠️ Tools & Technologies Used  
+- **Database:** Relational SQL database (tables: `companies`, `job_listings`, `applicants`, `applications`)  
+- **SQL:** Querying for trends in experience requirements, salaries, and gender bias.  
+- **Excel:** Pivot tables, charts, and an **interactive dashboard** for visualization.  
 
-## Deliverables (upload onto this repo)
-- SDG problem definition document
-- ERD
-- SQL scripts
-- Excel workbook with data analysis and dashboard
-- Integration documentation
-- Pitch deck presentation (Provide the link e.g Canva or Gamma in your documentation)
+---
 
+## 📊 Key Findings  
+### 📌 **Insight 1:** Excessive Experience Requirements  
+- Many "entry-level" jobs demand **3+ years of experience**, locking out fresh graduates.  
+
+### 📌 **Insight 2:** Low Salaries Below Living Wage  
+- Average entry-level salaries are **far below sustainable living costs**, especially in major cities.  
+
+### 📌 **Insight 3:** Gender Disparities in Hiring  
+- **Young women face additional hurdles** in securing jobs, leading to unequal employment rates.  
+
+---
+
+## 📋 Recommendations  
+✅ **Revise job descriptions** to reflect true entry-level expectations.  
+✅ **Adjust salary structures** to meet living wage standards.  
+✅ **Promote gender-inclusive hiring** through targeted policies.  
+
+---
+
+## 📂 Project Structure  
+1. **Database Schema:**  
+   - Tables: `companies`, `job_listings`, `applicants`, `applications`  
+   - Relationships ensuring data integrity.  
+
+2. **SQL Analysis:**  
+   - Queries extracting job trends, salary gaps, and hiring biases.  
+
+3. **Excel Dashboard:**  
+   - Interactive visualizations (bar charts, salary comparisons, gender insights).  
+
+4. **Final Report & Recommendations:**  
+   - Data-driven insights for policymakers and employers.  
+
+---
+
+## 🚀 How to Use This Project  
+1. **Database Setup:**  
+   - Run the SQL scripts to create and populate tables.  
+2. **Run Queries:**  
+   - Execute SQL queries to replicate the analysis.  
+3. **Explore Excel Dashboard:**  
+   - Use filters and slicers for dynamic insights.  
+
+---
+
+## 🙏 Acknowledgments  
+- **PLP Database Project** for the learning opportunity.  
+- **SDG 8** for guiding the focus on decent work and economic growth.  
+
+---
+
+## 📧 Contact  
+**By Mitchelle**  
+🔗 📧 lucianamitchell19@gmail.com
+
+**Let’s break barriers for youth employment together!** 💡  
+
+---  
+
+> "Data-driven change starts with understanding the problem." — **Mitchelle**  
+
+---  
